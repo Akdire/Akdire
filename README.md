@@ -23,6 +23,9 @@ YouTube thumbnails with OpenAI and Google Gemini. Python/FastAPI backend,
 Next.js frontend, PostgreSQL + Redis, CI with GitHub Actions, deployed on
 AWS. Built on interviews with 7 small YouTube creators.
 
+### [eval-harness](https://github.com/Akdire/eval-harness)
+Lightweight Python library for evaluating AI system outputs —pluggable graders, structured results, 26 tests. Built with a focus on clean API design and strict input validation.
+
 ### [SolarSaver — Android app](https://github.com/Akdire/SolarSaverProject-akilas)
 Kotlin Android app with multiple external API integrations. BSc team
 project (team of 6) at the University of Oslo — I worked across the stack,
