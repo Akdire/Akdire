@@ -1,6 +1,6 @@
 # Hi, I'm Akil Sherif 👋
 
-Fullstack developer in Oslo. I've built and contributed to six web and
+Fullstack developer in Oslo. I've built and contributed to 10+ web and
 mobile applications — most recently in a startup role — and I bring a
 social-science background and real user-research habits into how I build
 software.
@@ -12,7 +12,6 @@ software.
 
 **Languages:** Python · TypeScript · JavaScript · Kotlin
 **Frontend:** Next.js · React · Vue · Tailwind CSS · SCSS
-
 **Backend:** FastAPI · Next.js/TypeScript · REST & external APIs (OpenAI, Gemini)
 **Data & Cloud:** PostgreSQL · Redis · AWS (ECS, CloudFront, S3) · GitHub Actions (CI/CD)
 
