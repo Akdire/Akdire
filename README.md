@@ -11,8 +11,8 @@ software.
 ## 🔧 Tech I work with
 
 **Languages:** Python · TypeScript · JavaScript · Kotlin
-
 **Frontend:** Next.js · React · Vue · Tailwind CSS · SCSS
+
 **Backend:** FastAPI · Next.js/TypeScript · REST & external APIs (OpenAI, Gemini)
 **Data & Cloud:** PostgreSQL · Redis · AWS (ECS, CloudFront, S3) · GitHub Actions (CI/CD)
 
